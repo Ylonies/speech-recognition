@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+av==13.0.0
+nvidia-cublas-cu12; sys_platform == "linux" and platform_machine == "x86_64"
+nvidia-cudnn-cu12; sys_platform == "linux" and platform_machine == "x86_64"
